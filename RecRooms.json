@@ -680,44 +680,7 @@
       }
     ]
   },
-  "Lounge": {
-    "Room": {
-      "RoomId": 22,
-      "Name": "Lounge",
-      "Description": "A low-key lounge to chill with your friends. Great for private parties!",
-      "CreatorPlayerId": 666909467,
-      "ImageName": "",
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsAGRoom": true,
-      "CloningAllowed": false,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId": 0,
-        "RoomId": 22,
-        "RoomSceneLocationId": "a067557f-ca32-43e6-b6e5-daaec60b4f5a",
-        "Name": "Home",
-        "IsSandbox": true,
-        "DataBlobName": "",
-        "MaxPlayers": 20,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
-      }
-    ],
-    "CoOwners": [],
-    "Hosts": [],
-    "CheerCount": 1,
-    "FavoriteCount": 1,
-    "VisitCount": 1,
-    "Tags": [
-      {
-        "Tag": "recroomoriginal",
-        "Type": 2
+  
       }
     ]
   },

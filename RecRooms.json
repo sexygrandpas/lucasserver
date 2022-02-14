@@ -909,7 +909,7 @@
         "Name": "reccenter",
         "IsSandbox": false,
         "DataBlobName": "",
-        "MaxPlayers": 20,
+        "MaxPlayers": 0,
         "CanMatchmakeInto": true,
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }

@@ -21,7 +21,7 @@
         "RoomId": 4,
         "RoomSceneLocationId": "4078dfed-24bb-4db7-863f-578ba48d726b",
         "Name": "charades",
-        "IsSandbox": false,
+        "IsSandbox": true,
         "DataBlobName": "",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,

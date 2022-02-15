@@ -242,7 +242,7 @@
         "RoomId": 8,
         "RoomSceneLocationId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
         "Name": "River",
-        "IsSandbox": false,
+        "IsSandbox": true,
         "DataBlobName": "",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,
